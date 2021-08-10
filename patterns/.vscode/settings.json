@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "singleton_multithreaded",
+        "abstractfactory",
+        "builer2"
+    ]
+}
